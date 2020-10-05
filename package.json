@@ -1,0 +1,29 @@
+{
+  "name": "myket-iab-cordova-plugin",
+  "version": "3.0.2",
+  "description": "Use this In-app Billing plugin to sell digital goods, including one-time items and recurring subscriptions from your Cordova application.",
+  "cordova": {
+    "id": "myket-iab-cordova-plugin",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "myket",
+    "billing",
+    "in-app",
+    "inapp",
+    "purchase",
+    "credit",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "",
+  "license": "MIT"
+}
